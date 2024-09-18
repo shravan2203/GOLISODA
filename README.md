@@ -1,2 +1,2 @@
 # GOLISODA
-hello thus is a Readme file
+hello this is a Readme file
